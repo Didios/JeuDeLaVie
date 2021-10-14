@@ -1,0 +1,10 @@
+C:\Users\mathi\source\repos\JeuDeLaViePDF\bin\Debug\JeuDeLaViePDF.exe.config
+C:\Users\mathi\source\repos\JeuDeLaViePDF\bin\Debug\JeuDeLaViePDF.exe
+C:\Users\mathi\source\repos\JeuDeLaViePDF\bin\Debug\JeuDeLaViePDF.pdb
+C:\Users\mathi\source\repos\JeuDeLaViePDF\obj\Debug\JeuDeLaViePDF.csproj.AssemblyReference.cache
+C:\Users\mathi\source\repos\JeuDeLaViePDF\obj\Debug\JeuDeLaViePDF.Properties.Resources.resources
+C:\Users\mathi\source\repos\JeuDeLaViePDF\obj\Debug\JeuDeLaViePDF.csproj.GenerateResource.cache
+C:\Users\mathi\source\repos\JeuDeLaViePDF\obj\Debug\JeuDeLaViePDF.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\JeuDeLaViePDF\obj\Debug\JeuDeLaViePDF.exe
+C:\Users\mathi\source\repos\JeuDeLaViePDF\obj\Debug\JeuDeLaViePDF.pdb
+C:\Users\mathi\source\repos\JeuDeLaViePDF\obj\Debug\JeuDeLaViePDF.Form1.resources
